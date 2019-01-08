@@ -97,7 +97,7 @@ public class PocetniProzor {
 
 		JLabel lblAdnanovKalkulator = new JLabel("Adnanov kalkulator");
 		lblAdnanovKalkulator.setHorizontalAlignment(SwingConstants.CENTER);
-		lblAdnanovKalkulator.setFont(new Font("Playbill", Font.BOLD | Font.ITALIC, 40));
+		lblAdnanovKalkulator.setFont(new Font("Dialog", Font.BOLD | Font.ITALIC, 24));
 		lblAdnanovKalkulator.setForeground(new Color(255, 0, 0));
 		lblAdnanovKalkulator.setBounds(0, 11, 273, 99);
 		frame1.getContentPane().add(lblAdnanovKalkulator);
