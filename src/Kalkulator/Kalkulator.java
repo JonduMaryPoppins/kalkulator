@@ -25,7 +25,9 @@ public class Kalkulator {
 	double rezultat;
 	String odgovor;
 	String operacije;
-
+	
+	//Nebitno, samo primer izmene
+	//Kao nesto menjamo itd itd
 
 	/**
 	 * Create the application.
